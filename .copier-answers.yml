@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: 24a403c
+_src_path: gh:alan-turing-institute/python-project-template
+backend: setuptools
+email: me@email.com
+full_name: Nathan Simpsn
+license: Apache
+org: phinate
+pip_name: neural_network
+project_name: neural-network
+project_short_description: A great package.
+python_version_range: ">=3.8"
+typing: no_typing
+url: https://github.com/phinate/making-a-pr
