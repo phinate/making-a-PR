@@ -1,5 +1,6 @@
 import numpy as np
-from neural_network.activation_functions import sigmoid
+
+from neural_network.activations import sigmoid
 
 
 # Test sigmoid function with scalar input

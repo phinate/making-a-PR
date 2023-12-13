@@ -48,13 +48,6 @@ Discussions = "https://github.com/phinate/making-a-pr/discussions"
 Changelog = "https://github.com/phinate/making-a-pr/releases"
 
 
-[tool.hatch]
-version.path = "src/neural_network/__init__.py"
-envs.default.dependencies = [
-  "pytest",
-  "pytest-cov",
-]
-
 [tool.pytest.ini_options]
 minversion = "6.0"
 addopts = ["-ra", "--showlocals", "--strict-markers", "--strict-config"]
