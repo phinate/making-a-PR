@@ -1,5 +1,6 @@
 import numpy as np
 import pytest
+
 from neural_network.network import NeuralNetwork
 
 
