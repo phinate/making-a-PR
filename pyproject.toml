@@ -111,4 +111,3 @@ unfixable = [
 ]
 exclude = []
 flake8-unused-arguments.ignore-variadic-names = true
-
