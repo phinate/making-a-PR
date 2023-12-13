@@ -27,7 +27,9 @@ classifiers = [
   "Topic :: Scientific/Engineering",
 ]
 
-dependencies = []
+dependencies = [
+    "numpy"
+]
 
 [project.optional-dependencies]
 test = [
